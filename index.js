@@ -14,3 +14,5 @@ constructor(salad ,soup,entree,_dessert){
   
 }
 }
+let Breakfast = Breakfast("eggs","water")
+let Lunch = Lunch("")
