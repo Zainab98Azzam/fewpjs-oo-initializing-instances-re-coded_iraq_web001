@@ -21,6 +21,3 @@ constructor(salad ,soup,entree,dessert){
   this._dessert=dessert
 }
 }
-let breakfast = new Breakfast("eggs","water")
-let lunch =new Lunch("side salad","a","b")
-let dinner =new Dinner("balsamic salad")
