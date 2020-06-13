@@ -4,7 +4,7 @@ class Breakfast{
     
   }
 }
-class Launch {
+class Lunch {
   constructor(salad,soup,drink){
     
   }
